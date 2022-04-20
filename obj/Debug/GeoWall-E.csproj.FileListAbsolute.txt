@@ -1,0 +1,5 @@
+C:\Users\New User\documents\visual studio 2015\Projects\GeoWall-E\GeoWall-E\obj\Debug\GeoWall-E.csprojResolveAssemblyReference.cache
+C:\Users\New User\documents\visual studio 2015\Projects\GeoWall-E\GeoWall-E\bin\Debug\GeoWall-E.dll
+C:\Users\New User\documents\visual studio 2015\Projects\GeoWall-E\GeoWall-E\bin\Debug\GeoWall-E.pdb
+C:\Users\New User\documents\visual studio 2015\Projects\GeoWall-E\GeoWall-E\obj\Debug\GeoWall-E.dll
+C:\Users\New User\documents\visual studio 2015\Projects\GeoWall-E\GeoWall-E\obj\Debug\GeoWall-E.pdb
